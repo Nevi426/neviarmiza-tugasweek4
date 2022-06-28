@@ -1,3 +1,4 @@
 "Ini adalah file CV"
 1. PT. Telkom Indonesia
 2. PT. Samsung Electronics Indonesia
+3. PT. Persero Pertamina
